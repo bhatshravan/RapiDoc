@@ -1,29 +1,15 @@
 {
-  "name": "rapidoc",
+  "name": "dot-rapidoc",
   "version": "9.0.1-beta",
-  "description": "RapiDoc - Open API spec viewer with built in console",
-  "author": "Mrinmoy Majumdar <mrin9@yahoo.com>",
+  "description": "RapiDoc Fork- Open API spec viewer with built in console",
+  "author": "Shravan Bhat <shrvnbhat0@gmail.com.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrin9/RapiDoc.git"
+    "url": "https://github.com/bhatshravan/RapiDoc.git"
   },
   "license": "MIT",
   "keywords": [
-    "OpenAPI",
-    "OpenAPI Specification",
-    "Swagger",
-    "JSON-Schema",
-    "API",
-    "REST",
-    "documentation",
-    "Custom Element",
-    "Web Component",
-    "rapidoc",
-    "swagger",
-    "swagger ui",
-    "openapi ui",
-    "openapi themes",
-    "swagger themes"
+    "OpenAPI"
   ],
   "main": "dist/rapidoc-min.js",
   "module": "dist/rapidoc-min.js",
